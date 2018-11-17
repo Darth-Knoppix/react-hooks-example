@@ -1,0 +1,20 @@
+{
+  "name": "react-hooks-example",
+  "version": "1.0.0",
+  "description": "Trying out React Hooks",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Corker",
+  "license": "MIT",
+  "dependencies": {
+    "react": "~16.7.0-alpha.2",
+    "react-dom": "~16.7.0-alpha.2"
+  },
+  "devDependencies": {
+    "parcel": "^1.10.3"
+  }
+}
